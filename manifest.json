@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Site cookie stealer and exporter",
+  "version": "100.0",
+  "description": "C00kie stealer 2.0",
+  "permissions": [
+    "cookies",
+    "activeTab",
+    "downloads"
+  ],
+  "browser_action": {
+    "default_title": "C00kie stealer",
+    "default_popup": "popup.html"
+  }
+}
